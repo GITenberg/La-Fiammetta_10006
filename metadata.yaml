@@ -1,10 +1,13 @@
 _repo: La-Fiammetta_10006
-_version: 0.0.1
+_version: 0.1.0
 contributor:
   translator:
     agent_name: Brogan, James C.
     gutenberg_agent_id: '42488'
     url: http://www.gutenberg.org/2009/agents/42488
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Boccaccio, Giovanni
@@ -14,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1279
     wikipedia: http://en.wikipedia.org/wiki/Giovanni_Boccaccio
 description: Contains introduction, prologue, and chapter 1 only.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/10006#La-Fiammetta
 gutenberg_issued: '2003-11-01'
 gutenberg_type: Text
 identifiers:
